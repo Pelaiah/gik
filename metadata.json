@@ -1,0 +1,6 @@
+{
+  "name": "Gikspot | Technology Firm & Hardware Systems",
+  "description": "Gikspot delivers enterprise tech consultancy, scalable SaaS engineering, IoT & smart home integrations, industrial AI predictive maintenance, and vendor hardware solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
